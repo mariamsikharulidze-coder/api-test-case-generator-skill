@@ -3,9 +3,9 @@
 This repository contains a custom AI skill for producing reviewable API test scenarios from a documented OpenAPI/Swagger contract.
 
 ## Submission files
-- [`api-test-case-generator/SKILL.md`](api-test-case-generator/SKILL.md) — trigger description and agent workflow
-- [`api-test-case-generator/references/coverage-guidelines.md`](api-test-case-generator/references/coverage-guidelines.md) — coverage guide
-- [`api-test-case-generator/assets/test-case-template.md`](api-test-case-generator/assets/test-case-template.md) — Markdown output template
+- [`.agents/skills/api-test-case-generator/SKILL.md`](.agents/skills/api-test-case-generator/SKILL.md) — trigger description and agent workflow
+- [`.agents/skills/api-test-case-generator/references/coverage-guidelines.md`](.agents/skills/api-test-case-generator/references/coverage-guidelines.md) — coverage guide
+- [`.agents/skills/api-test-case-generator/assets/test-case-template.md`](.agents/skills/api-test-case-generator/assets/test-case-template.md) — Markdown output template
 - [`ANALYSIS_AND_REFLECTION.md`](ANALYSIS_AND_REFLECTION.md) — one-page analysis and short reflection
 
 ## Example user prompt
